@@ -1,5 +1,6 @@
 # Supervised Machine Learning Cheat Sheet
-![Alt Text](Supervised Machine Learning.gif)
+![Supervised Machine learning](https://user-images.githubusercontent.com/85634962/163583023-40dc3fd5-4f3c-4e44-aa49-ee755ed169f8.gif)
+
 
 I designed this cheat sheet to help newcomers in this field since I had no help and was overwhelmed by all the different kinds of models available (and when/how to use each one).
 
