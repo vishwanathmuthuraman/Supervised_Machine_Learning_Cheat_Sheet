@@ -1,5 +1,6 @@
 # Supervised Machine Learning Cheat Sheet
-![Screenshot](supervised Machine Learning.gif)
+![Alt Text](Supervised Machine Learning.gif)
+
 I designed this cheat sheet to help newcomers in this field since I had no help and was overwhelmed by all the different kinds of models available (and when/how to use each one).
 
 At the time, It would have been more convenient if there had been an instruction manual of some sort that summarized step-by-step how to select the required model without having to go through multiple sources to find documentation and a general syntax for using it.
